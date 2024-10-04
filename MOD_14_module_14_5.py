@@ -7,7 +7,7 @@ from crud_functions import *
 from keyboards import *
 
 
-api = '7011531358:AAH6jXaPg9jN3nCOkEwPmZsJrtmu_B2qyAc'
+api = '______'
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
